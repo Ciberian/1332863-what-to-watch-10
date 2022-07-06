@@ -1,7 +1,7 @@
 # Личный проект «Что посмотреть»
 
 * Студент: [Salavat Imaev](https://up.htmlacademy.ru/react/10/user/1332863).
-* Наставник: `Неизвестно`.
+* Наставник: [Семён Якушев](https://htmlacademy.ru/profile/id1118791).
 
 ---
 
